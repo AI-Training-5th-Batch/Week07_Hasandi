@@ -124,6 +124,3 @@ Trend-aware forecasting supports predictive maintenance by
 identifying potential threshold crossings and enabling proactive
 maintenance planning.
 
-```
-
-```
